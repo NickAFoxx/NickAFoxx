@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickAFoxx
 - 👀 I’m interested in ... Game development
-- 🌱 I’m currently learning ... C++, and eventually, Python
+- 🌱 I’m currently learning ... C#, eventually C++
 - 💞️ I’m looking to collaborate on ... Nothing atm
 - 📫 How to reach me ... @Nick_Foxxxx on twitter
 
